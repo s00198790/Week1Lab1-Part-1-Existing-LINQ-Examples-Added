@@ -1,9 +1,11 @@
 ﻿
 Microsoft Visual Studio Solution File, Format Version 12.00
-# Visual Studio 14
-VisualStudioVersion = 14.0.23107.0
+# Visual Studio Version 16
+VisualStudioVersion = 16.0.30523.141
 MinimumVisualStudioVersion = 10.0.40219.1
 Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "LINQExamples", "LINQExamples\LINQExamples.csproj", "{0A15764B-D1A3-416E-913B-0F1E63F4A314}"
+EndProject
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "Rad301-2021-Week1-Lab1", "Rad301-2021-Week1-Lab1\Rad301-2021-Week1-Lab1.csproj", "{8FF0AFE3-A496-414D-9501-15940B96FDBB}"
 EndProject
 Global
 	GlobalSection(SolutionConfigurationPlatforms) = preSolution
@@ -15,8 +17,15 @@ Global
 		{0A15764B-D1A3-416E-913B-0F1E63F4A314}.Debug|Any CPU.Build.0 = Debug|Any CPU
 		{0A15764B-D1A3-416E-913B-0F1E63F4A314}.Release|Any CPU.ActiveCfg = Release|Any CPU
 		{0A15764B-D1A3-416E-913B-0F1E63F4A314}.Release|Any CPU.Build.0 = Release|Any CPU
+		{8FF0AFE3-A496-414D-9501-15940B96FDBB}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{8FF0AFE3-A496-414D-9501-15940B96FDBB}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{8FF0AFE3-A496-414D-9501-15940B96FDBB}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{8FF0AFE3-A496-414D-9501-15940B96FDBB}.Release|Any CPU.Build.0 = Release|Any CPU
 	EndGlobalSection
 	GlobalSection(SolutionProperties) = preSolution
 		HideSolutionNode = FALSE
+	EndGlobalSection
+	GlobalSection(ExtensibilityGlobals) = postSolution
+		SolutionGuid = {927F3A0D-E73E-440F-B17A-6A1B72087FF5}
 	EndGlobalSection
 EndGlobal
